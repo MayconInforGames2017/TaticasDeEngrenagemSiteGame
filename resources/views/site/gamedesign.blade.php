@@ -13,9 +13,9 @@
             <h2 class="featurette-heading">Perfil. <span class="text-muted">Jogadores alvos acima dos 12 anos.</span></h2>
             <p class="lead">Curiosidade. "Segundo uma pesquisa, 23% dos entrevistados declaram jogar videogame ou algum tipo de jogo eletrônico, ainda que de vez em quando. Além disso, o futebol, preferência nacional, perde a hegemonia entre os games. Na preferência dos jogadores, os games de Ação e Aventura são destaque, enquanto a categoria Futebol ocupa a segunda posição, seguida pelos games de Corridas de carro." Mundo do Marketing.</p>
         </div>
-        <div class="col-md-5">
-            <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500"  preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="" ><title></title><rect width="100%" height="100%" fill="#eee"/></svg>
-        </div>
+            <div class="col-md-5">
+                <img src="{{asset('imagens/games.jpg')}}">        
+            </div>
         </div>
 
         <hr class="featurette-divider">
@@ -31,7 +31,7 @@
                             Armazenamento: 5 GB de espaço livre..</p>
         </div>
         <div class="col-md-5 order-md-1">
-            <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 500x500"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
+            <img src="{{asset('imagens/desktop.jpg')}}">  
         </div>
         </div>
 
@@ -48,9 +48,9 @@
                 Jogos puramente de ação possuem uma jogabilidade baseada em interações em tempo real que desafiam os reflexos.
                 Jogos de ação-aventura requerem tanto reflexos como soluções para problemas, em situações violentas ou não-violentas. </p>
         </div>
-        <div class="col-md-5">
-            <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 500x500"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
-        </div>
+            <div class="col-md-5">
+                <img src="{{asset('imagens/generos.jpg')}}"> 
+            </div>
         </div>
 
         <hr class="featurette-divider">

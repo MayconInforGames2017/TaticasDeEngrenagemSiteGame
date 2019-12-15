@@ -17,7 +17,7 @@
     </p>
 </div>
     <div class="img-thumbnail">
-        <img src="{{asset('imagens/soldado_menu.jpg')}}">
+        <img src="{{asset('imagens/instrucao_jogo.png')}}">
     </div>
 </div>
 

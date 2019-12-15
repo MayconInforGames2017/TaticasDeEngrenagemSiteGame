@@ -14,7 +14,7 @@
     <p class="lead">.O jogo será em 2D.</p>
 </div>
 <div class="col-md-5">
-<img src="..." alt="..." class="img-thumbnail">
+<img src="{{asset('imagens/tela2.png')}}">
 </div>
 </div>
 

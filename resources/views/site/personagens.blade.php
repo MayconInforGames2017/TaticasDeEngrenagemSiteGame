@@ -16,7 +16,7 @@
     </p>
 </div>
     <div class="img-thumbnail-2">
-        <img src="{{asset('imagens/jogador.png')}}">
+        <img src="{{asset('imagens/jogador.png')}}">  
     </div>
 </div>
 

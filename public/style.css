@@ -121,3 +121,16 @@ body {
     max-width: 2%;
     height: auto;
 }
+
+.col-md-5 {
+  padding: 6.25rem;
+  
+}
+
+.col-md-5 order-md-1{
+  padding: -2.75rem;
+}
+
+.col-md-5 {
+  padding: -2.75rem;
+}

@@ -21,7 +21,7 @@
      os feedbacks que o jogo pode fornecer ao usuário.</p>
 </div>
 <div class="col-md-5">
-    <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500"  preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="" ><title></title><rect width="100%" height="100%" fill="#eee"/></svg>
+    <img src="{{asset('imagens/mente.jpg')}}">  
 </div>
 </div>
 
